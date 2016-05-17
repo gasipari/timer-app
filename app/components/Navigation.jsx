@@ -20,8 +20,8 @@ var Navigation = () => {
       </div>
       <div className="top-bar-right">
         <ul className="menu">
-          <li className="menu-text">
-            <a href="#">About</a>
+          <li>
+            <Link to="/" activeClassName="active-link">About</Link>
           </li>
         </ul>
       </div>
