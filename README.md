@@ -1,2 +1,2 @@
-# boilerplate-app
-boilerplate-app
+# A Countdown/Timer App
+A Countdown/Timer App
