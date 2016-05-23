@@ -44,7 +44,7 @@ describe('Countdown', () => {
         expect(countdown.state.count).toBe(3);
         expect(countdown.state.countdownStatus).toBe('paused');
         done();
-      }, 4000);
+      }, 3001);
     });
 
     it('should reset the count on stopped status', (done) => { // asynchronous test
